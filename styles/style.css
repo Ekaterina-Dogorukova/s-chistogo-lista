@@ -33,8 +33,8 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote {
     padding: 24px 20px;
 }
 .header__logo-image {
-    width: 78px;
-    height: 15px;
+    width: 78.5px;
+    height: 15.4px;
 }
 .header__menu-list {
     list-style: none;
@@ -44,7 +44,7 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote {
 .header__menu-item {
     color: #F5F5F5;
     font-size: 16px;
-    line-height: 19px;
+    line-height: 19.2px;
     margin: 0 0 12px 0;
 }
 .header__menu-item:last-of-type {
@@ -103,7 +103,7 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote {
 .intro__main-text {
     margin: 0 20px 24px 20px;
     font-size: 16px;
-    line-height: 21px;
+    line-height: 21.6px;
     color: #F5F5F5;
 }
 .intro__main-text:last-of-type {
@@ -189,7 +189,7 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote {
 }
 .card__text {
     font-size: 16px;
-    line-height: 21px;
+    line-height: 21.6px;
 }
 .footer {
     display: flex;
